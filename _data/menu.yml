@@ -4,12 +4,10 @@
 entries:
   - title: info
     entries:
-      - title: hi
+      - title: hi, welcome to my blog!
       - title: github
         url: https://github.com/zxtsubxu
-      - title: twitter
-        url: https://twitter.com/zxtsubxu
-      - title:
+      - title: linkedin
         url: https://www.linkedin.com/in/macgyver-codilla-a566a2208/
       - title: macgyver.codilla39@outlook.jp
 
