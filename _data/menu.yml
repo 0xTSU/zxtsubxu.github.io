@@ -4,28 +4,28 @@
 entries:
   - title: info
     entries:
-      - title: repo/contact
+      - title: hi
       - title: github
         url: https://github.com/zxtsubxu
       - title: twitter
         url: https://twitter.com/zxtsubxu
+      - title:
+        url: https://www.linkedin.com/in/macgyver-codilla-a566a2208/
+      - title: macgyver.codilla39@outlook.jp
 
-  - title: all posts
+  - title: recent posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: projects
     post_list:
       category: example2
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
   
   - title: another list
     entries:
@@ -35,4 +35,4 @@ entries:
           - title: example page
             url: about
 
-  - title: nice to meet u.
+  - title: nice to meet you.
