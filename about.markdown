@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This blog showcases my growth as a computer scientist/software developer. Find code that I published online on my [GitHub](https://github.com/zxtsubxu)
+This blog showcases my growth as a computer scientist/software developer. Find code that I published online on my [GitHub](https://github.com/zxtsubxu).
 
 You can contact me through:
-[email][mailto:macgyver.codilla39@outlook.jp] /
+[email](mailto:macgyver.codilla39@outlook.jp) /
 [LinkedIn](https://www.linkedin.com/in/macgyver-codilla-a566a2208/)
 
 Learned something cool? Feel free to send a [thanks][thankyou].
