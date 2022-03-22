@@ -12,4 +12,6 @@ You can contact me through:
 
 Learned something cool? Feel free to send a [thanks][thankyou].
 
+[Back](https://zxtsubxu.moe)
+
 [thankyou]: mailto:macgyver.codilla39@outlook.jp?subject=Thanks!&body=I%20learned%20something%20cool%20from%20your%20blog.%20Thank%20you!

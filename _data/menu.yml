@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: contact info
     entries:
       - title: hi, welcome to my blog!
       - title: github
@@ -20,7 +20,7 @@ entries:
 
   - title: projects
     post_list:
-      category: example2
+      category: projects
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
