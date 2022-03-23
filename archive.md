@@ -3,4 +3,4 @@ layout: archive
 title: Archive
 ---
 
-{%-include back_link.html-%}
+[Back](https://zxtsubxu.moe)
