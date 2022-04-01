@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-[Back](https://zxtsubxu.moe)
 
 This blog showcases my growth as a computer scientist/software developer. Find code that I published online on my [GitHub](https://github.com/zxtsubxu).
 
