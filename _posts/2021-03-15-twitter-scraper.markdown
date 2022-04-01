@@ -16,6 +16,6 @@ Using xpath, I'm able to navigate, and manipulate the DOM elements to scrape ima
 
 The program inserts unique URLs into a list so the latter half of the program can iterate through that array, and send requests. Once the request is returned, we check the status code(200) to see if its a valid image, check the header to get its MIME-type, and then write the contents to the file with the correct file extension.
 
-{% include youtubePlayer.html id=kyUQTEMngs0 %}
+{% include youtubePlayer_twitterscraper.html %}
 
 Web scraping is a powerful tool. I plan to exploit/utilize/abuse it for my future projects. 
