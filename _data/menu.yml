@@ -10,6 +10,7 @@ entries:
       - title: linkedin
         url: https://www.linkedin.com/in/macgyver-codilla-a566a2208/
       - title: macgyver.codilla39@outlook.jp
+            
 
   - title: recent posts
     post_list:
@@ -25,12 +26,7 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
+
 
   - title: nice to meet you.
+    url: about
