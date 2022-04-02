@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "First Step into Python - A Twitter Scraper"
+title:  "Twitter Image Scraper"
 date:   2021-03-15 13:06:28 -0800
 categories: projects
 ---
+
+# First step in Python - A Twitter Scraper
 
 As an aside from my coursework, I wanted to dip my toes into various programming languages and see how the basic principles are implemented. Python is a popular language that's extremely easy to learn. I found to my benefit that I was quickly able to adjust to its syntax, learn the indent rules, how to instantiate a class, and how to run programs. 
 Despite its flaws, I can see why its one of the most widely used languages for programming.
@@ -18,4 +20,5 @@ The program inserts unique URLs into a list so the latter half of the program ca
 
 {% include youtubePlayer_twitterscraper.html %}
 
+[View on](https://github.com/zxtsubxu/ez-twitterdl)
 Web scraping is a powerful tool. I plan to exploit/utilize/abuse it for my future projects. 
