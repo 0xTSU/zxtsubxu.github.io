@@ -20,5 +20,7 @@ The program inserts unique URLs into a list so the latter half of the program ca
 
 {% include youtubePlayer_twitterscraper.html %}
 
-[View on](https://github.com/zxtsubxu/ez-twitterdl)
+[View code on GitHub](https://github.com/zxtsubxu/ez-twitterdl)
+
+
 Web scraping is a powerful tool. I plan to exploit/utilize/abuse it for my future projects. 
