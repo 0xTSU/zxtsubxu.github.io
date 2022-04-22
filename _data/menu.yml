@@ -13,7 +13,6 @@ entries:
 
   - title: recent posts
     post_list:
-      category: blog
       limit: 5
       show_more: true
       show_more_text: See archive...

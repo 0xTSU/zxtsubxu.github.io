@@ -2,7 +2,7 @@
 layout: post
 title:  "Twitter Image Scraper"
 date:   2021-03-15 13:06:28 -0800
-categories: projects, blog
+categories: projects
 ---
 
 This script allows you to crawl and scrape images off a Twitter user's page. 
