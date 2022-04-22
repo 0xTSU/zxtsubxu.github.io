@@ -25,5 +25,5 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
-  - title: nice to meet you.
-    url: about
+  #- title: nice to meet you.
+  #  url: about
